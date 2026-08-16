@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ondp66.jeboltogel9khr.lat/sitemap.xml
